@@ -1,0 +1,7 @@
+c:\users\tushar_goel04\source\repos\LearningConsoleApp\LearningConsoleApp\bin\Debug\LearningConsoleApp.exe.config
+c:\users\tushar_goel04\source\repos\LearningConsoleApp\LearningConsoleApp\bin\Debug\LearningConsoleApp.exe
+c:\users\tushar_goel04\source\repos\LearningConsoleApp\LearningConsoleApp\bin\Debug\LearningConsoleApp.pdb
+c:\users\tushar_goel04\source\repos\LearningConsoleApp\LearningConsoleApp\obj\Debug\LearningConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\tushar_goel04\source\repos\LearningConsoleApp\LearningConsoleApp\obj\Debug\LearningConsoleApp.exe
+c:\users\tushar_goel04\source\repos\LearningConsoleApp\LearningConsoleApp\obj\Debug\LearningConsoleApp.pdb
+C:\Users\tushar_goel04\source\repos\LearningConsoleApp\LearningConsoleApp\obj\Debug\LearningConsoleApp.csprojAssemblyReference.cache
